@@ -23,7 +23,7 @@ Iyy=param.Iyy
 
 ## INITIAL AND CONDITTIONS
 initialStates=[0,0,0,0,0,0,0,0,0,0] # [x,y,z,theta,phi,xVel,yVel,zVel,thetaVel,phiVel]
-desiredStates=[1,1,1,0,0,0,0,0,0]
+desiredStates=[1,1,1,0,0,0,0,0,0]   # [xPosDes,yPosDes,zPosDes,xVelDes,yVelDes,zVelDes,xAccDes,yAccDes,zAccDes]
 
 
 ## DECLARING TIME LIMIT AND NUMBER OF TIME POINTS
