@@ -42,7 +42,7 @@ def model(z,t,u1,u2,u3):
     Takes a list of initial conditions with some timpoints and some arguments which are the input required to the quadcopter.
     Using them in relation to the model of a quadcopter, the simplified differential equations are generated.
 
-Q    Input Arguments:
+    Input Arguments:
     ---
     z, t, u1, u2, u3 :   [ list ], [ list ], [ int ], [ int ], [ int ]
             z : initial condition
